@@ -41,8 +41,8 @@
 <p>Click the links below to open the notebooks directly in Google Colab:</p>
 
 <ul>
-  <li><a href="machine-learning-new
-/houseing_prices_ch2.ipynb">California Housing Prediction</a></li>
+  <li><a href="
+houseing_prices_ch2.ipynb">California Housing Prediction</a></li>
   <li><a href="YOUR_LINK_HERE">MNIST Digit Classification</a></li>
   <li><a href="YOUR_LINK_HERE">Titanic Survival Prediction</a></li>
   <li><a href="YOUR_LINK_HERE">Fashion MNIST Classification</a></li>
